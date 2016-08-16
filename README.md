@@ -5,7 +5,7 @@
 项目环境依赖node.js和webpack(在开始之前请安装所需要的依赖)
 ###相关文档
 使用这个demo之前需要掌握[koa](http://koajs.com/)和[redux](http://redux.js.org)的基础,没有掌握者可先阅读相关文档
-===
+----
 
 ##使用
 ###下载所需要的类库
@@ -19,4 +19,4 @@ npm install
 npm start
 npm run build
 ```
-===
+----
